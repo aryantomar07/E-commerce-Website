@@ -4,3 +4,19 @@
 
 ## Snaps of Website 
 ### Home Page
+
+## Responsive Design
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>Large Screen</td>
+     <td>Medium Screen</td>
+     <td>Small Screen</td>
+  </tr>
+  <tr VALIGN=TOP>
+    <td><img src="Files/screenshots/1Fullscreen.png" width=270 height=480></td>
+    <td><img src="Files/screenshots/1Mediumscreen.png" width=270 height=780></td>
+    <td><img src="Files/screenshots/Smallscreen.png" width=270 height=1180></td>
+  </tr>
+ </table>
